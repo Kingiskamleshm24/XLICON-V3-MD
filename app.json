@@ -10,10 +10,10 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923402725227"
     },
     "SUDO_NAME": {
-      "description": "Add Your Name Here",
+      "description": "kamlesh kumar",
       "required": true,
       "value": "SᴀʟᴍᴀɴSᴇʀ"
     },
@@ -35,7 +35,7 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "Kingbot"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
@@ -50,7 +50,7 @@
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "923402725227,923402725227"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
